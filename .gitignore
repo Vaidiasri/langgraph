@@ -1,0 +1,6 @@
+myenv/
+.qodo/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
